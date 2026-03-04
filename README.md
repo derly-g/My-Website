@@ -111,114 +111,11 @@
       
 </p>
 <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/chiikawa-usagi/sticker_29.png?53134e9055d9fc5eeeebc93b0247af06&d=200x200">
+<link rel="stylesheet" type="text/css" href="main.css/main.css">
   </div>
 </body>
-
+<link rel="stylesheet" type="text/css" href="main.css/main.css">
 </html>
 
 </html>
 
-CSS.style
-body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-    }
-    #main-title {
-      color: black;
-      text-align: center;
-    }
-    .highlight {
-      background-color: red;
-    }
-    nav a {
-      color: red;
-      text-decoration: none;
-      margin: 0 10px;
-    }
-p {
-  color: red;
-}
- h2 {
-  color: #8B0000;
-}
- li {
-  color: red;
-}
- h1 {
-  color: #8B0000;
-  background-color: #CA806C;
-  padding: 10px;
-}
- 
-    .box1 {
-
-      width: 100px; /* Sets the width of the box */
-
-      height: 50px; /* Sets the height of the box */
-
-      border: 10px double black; /* Adds a solid border */
-
-      padding: 40px; /* Adds space between content and border */
-
-      margin: 100px; /* Adds space outside the border, separating it from other elements */
-position: sticky;
-  top: 0;
-      bottom: 0px;
-      left:900px;
-  background: blue;
-
-      border-radius: 0px; /* Rounds the corners */
-}
-    img {
-      weight
-      height: 200px; /* Sets the height of the box */
-
-      border: 0px solid red; /* Adds a solid border */
-
-      padding: 40px; /* Adds space between content and border */
-
-      margin: 100px; /* Adds space outside the border, separating it from other elements */
-  position: fixed;
- left: 1000px;
-  top: 100px;
-  width: 15%;
-      background-color: ; /* Adds a background color */
-
-      border-radius: 0px; /* Rounds the corners */
-}
- .box3 {
-      width: 180px; /* Sets the width of the box */
-
-      height: 2px; /* Sets the height of the box */
-      border: 5px dotted purple; /* Adds a solid border */
-
-      padding: 40px; /* Adds space between content and border */
-
-      margin: 10px; /* Adds space outside the border, separating it from other elements */
-  position: relative;
-  bottom: 900px;
-  left: 200px; /* moves right */
-      background-color:purple; /* Adds a background color */
-
-      border-radius: 30px; /* Rounds the corners */
-}
-.box4 {
-      width: 180px; /* Sets the width of the box */
-
-      height: 150px; /* Sets the height of the box */
-
-      border: 5px dotted black; /* Adds a solid border */
-
-      padding: 40px; /* Adds space between content and border */
-
-      margin: 100px; /* Adds space outside the border, separating it from other elements */
-  position: absolute;
-  top: 200px;
-  right: 600px;
-  font-family:Courier New;
-      background-color: green; /* Adds a background color */
-
-      border-radius: 10px; /* Rounds the corners */
-}
-body{
-  height:4px; 
