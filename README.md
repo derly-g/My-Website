@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h1 style="font-family:'Lucida Console'">Derly Gutierrez</h1>
 <nav>
       <a href="#about">About</a>
@@ -10,7 +9,7 @@
   <header>
     <h1>Welcome to my website</h1>
         <link rel="stylesheet" type="text/css" href="main.css/main.css">
-    </body>
+    
 <h2>About Me</h2>
 <p>
   Hello! My name is Derly Gutierrez I am a learning graphic designer and now web designer. My goal in this career path is to make designs for artists, musicians and film makers. I enjoy designing posters, editing collages and making video edits and motion graphics. This is my first webpage I'm learning how to use HTML to create
@@ -115,7 +114,3 @@
   </div>
 </body>
 <link rel="stylesheet" type="text/css" href="main.css/main.css">
-</html>
-
-</html>
-
