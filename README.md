@@ -4,6 +4,7 @@
       <a href="#about">About</a>
       <a href="#contact">Contact</a>
       <a href="https://www.linkedin.com/in/derly-gutierrez-217b5a3a7/">My Website</a>
+      <link rel="stylesheet" type="text/css" href="main.css/main.css">
     </nav>
 <body>
   <header>
