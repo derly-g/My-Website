@@ -3,18 +3,18 @@
       <a href="#about">About</a>
       <a href="#contact">Contact</a>
       <a href="https://www.linkedin.com/in/derly-gutierrez-217b5a3a7/">My Website</a>
-      <link rel="stylesheet" type="text/css" href="main.css/main.css">
+      <link rel="stylesheet" href="style.css">
     </nav>
 <body>
   <header>
     <h1>Welcome to my website</h1>
-        <link rel="stylesheet" type="text/css" href="main.css/main.css">
+        <link rel="stylesheet" href="style.css">
     
 <h2>About Me</h2>
 <p>
   Hello! My name is Derly Gutierrez I am a learning graphic designer and now web designer. My goal in this career path is to make designs for artists, musicians and film makers. I enjoy designing posters, editing collages and making video edits and motion graphics. This is my first webpage I'm learning how to use HTML to create
   websites. I am taking this class because I want to learn how to design websites for my art portfolio and also to design websites for other artists and creatives.
-      <link rel="stylesheet" type="text/css" href="main.css/main.css">
+      <link rel="stylesheet" href="style.css">
 </p>
  <ul>
   
@@ -26,7 +26,7 @@
    <li>Watching Movies</li>
    <li>Editing Videos</li>
    <li>Graphic Designing</li>
-       <link rel="stylesheet" type="text/css" href="main.css/main.css">
+       <link rel="stylesheet" href="style.css">
 </ul>
 <h2>Favorite Websites</h2>
 <ol>
@@ -34,7 +34,7 @@
   <li>
     <a href="https://www.netflix.com/browse" target="_blank">Netflix</a>
   </li>
-      <link rel="stylesheet" type="text/css" href="main.css/main.css">
+      <link rel="stylesheet" href="style.css">
 </ol>
    <p>
   
@@ -86,7 +86,7 @@
 </head>
 
 <body>
-
+<link rel="stylesheet" href="style.css">
   <div class="box1">
 
     <p>Thanks for visiting!!!</p>
